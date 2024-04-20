@@ -18,7 +18,7 @@ function Todos() {
             <button
             style = {{margin: '-5px 20px', backgroundColor:'cadetblue'}}
              onClick={() => dispatch(removetodo(todo.id))}
-            >
+            >d
              X
             </button>
           </li>
